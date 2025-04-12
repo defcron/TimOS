@@ -10,5 +10,5 @@ Ask the GPT about it after completing the step above, and it will explain usage 
 
 ## Live Demo
 
-ChatGPT conversation you can use to try this out, with TimOS pre-activated in it, and some other special things added too: [https://chatgpt.com/share/67f9d26e-a0ac-8007-bfbd-712270d2f37d](https://chatgpt.com/share/67f9d26e-a0ac-8007-bfbd-712270d2f37d)
+ChatGPT conversation you can use to try this out, with TimOS pre-activated in it, and some other special things added too: [https://chatgpt.com/share/67fa41b4-194c-8007-aec5-dcbe6f4f4b12](https://chatgpt.com/share/67fa41b4-194c-8007-aec5-dcbe6f4f4b12)
 
