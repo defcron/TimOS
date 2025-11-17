@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Send the contents of the `GPT-Execution-Layers-Reference-README.md` file as your first query message in a new ChatGPT conversation. TimOS is now active in that conversation, and you can ask the GPT for more information about it. The current most up-to-date contents of `GPT-Execution-Layers-Reference-README.md` are available here: [https://gitlab.com/defcronyke/timos/-/raw/main/GPT-Execution-Layers-Reference-README.md](https://gitlab.com/defcronyke/timos/-/raw/main/GPT-Execution-Layers-Reference-README.md)
+Send the contents of the `GPT-Execution-Layers-Reference-README.md` file as your first query message in a new ChatGPT conversation. TimOS is now active in that conversation, and you can ask the GPT for more information about it. The current most up-to-date contents of `GPT-Execution-Layers-Reference-README.md` are available here: [https://raw.githubusercontent.com/defcron/TimOSdelta/refs/heads/main/GPT-Execution-Layers-Reference-README.md](https://raw.githubusercontent.com/defcron/TimOSdelta/refs/heads/main/GPT-Execution-Layers-Reference-README.md)
 
 ## Usage
 
